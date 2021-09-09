@@ -1,0 +1,24 @@
+= Bronzage: Vim colorscheme
+:experimental:
+:icons: font
+:autofit-option:
+:!source-linenums-option:
+:imagesdir: images
+
+
+== Screenshots
+
+image::https://user-images.githubusercontent.com/234774/132733508-a59b5cf7-1d28-4022-8513-1d9682093310.png[]
+image::https://user-images.githubusercontent.com/234774/132733836-c47b30e8-6c1b-4007-878f-225968f6db8a.png[]
+image::https://user-images.githubusercontent.com/234774/132734098-feb845f8-9b43-4071-b3b1-d3cc09604527.png[]
+image::https://user-images.githubusercontent.com/234774/132734188-2baebc83-d18a-4983-9912-f74f834ba184.png[]
+
+
+
+== Installation
+
+Follow the instructions plugin manager of choice has.
+
+Or simply put `bronzage.vim` into your `~/.vim/colors/` folder.
+
+
