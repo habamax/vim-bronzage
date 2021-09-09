@@ -1,4 +1,4 @@
-= Bronzage: Vim colorscheme
+= Bronzage vim colorscheme
 :experimental:
 :icons: font
 :autofit-option:
