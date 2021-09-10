@@ -17,23 +17,23 @@ Color: background #3A3A3A 237
 Color: color00    #303030 236
 Color: color08    #4E4E4E 239
 
-Color: color01    #D75F5F 167
-Color: color09    #D7875F 173
+Color: color01    #D7875F 173
+Color: color09    #D75F5F 167
 
-Color: color02    #87AF5F 107
-Color: color10    #87AF87 108
+Color: color02    #87AF87 108
+Color: color10    #87AF5F 107
 
-Color: color03    #AFAF5F 143
-Color: color11    #D7D787 186
+Color: color03    #D7D787 186
+Color: color11    #AFAF5F 143
 
-Color: color04    #5f8787 66
-Color: color12    #87AFD7 110
+Color: color04    #87AFD7 110
+Color: color12    #5f8787 66
 
-Color: color05    #AF875F 137
-Color: color13    #D7AF5F 179
+Color: color13    #AF875F 137
+Color: color05    #D7AF5F 179
 
-Color: color06    #87AFAF 109
-Color: color14    #87D7D7 116
+Color: color14    #87AFAF 109
+Color: color06    #87D7D7 116
 
 Color: color07    #808080 244
 Color: color15    #E4E4E4 254
@@ -54,23 +54,23 @@ StatuslineTermNC color07    color08
 VertSplit        color08    color08
 
 Pmenu            none       color08
-PmenuSel         background color11
+PmenuSel         background color03
 PmenuSbar        none       color07
 PmenuThumb       none       color15
 
 TabLine          color07    color08
-TabLineFill      color06    color08
+TabLineFill      color14    color08
 TabLineSel       background color07
 
 ToolbarLine      none       color00
-ToolbarButton    background color10
+ToolbarButton    background color02
 
 NonText          color08    none
 SpecialKey       color08    none
 
 Folded           color07    color00
-Visual           background color12
-VisualNOS        background color12
+Visual           background color04
+VisualNOS        background color04
 LineNr           color07    background
 FoldColumn       color07    background
 CursorLine       none       color00
@@ -79,54 +79,53 @@ CursorLineNr     none       color00
 QuickFixLine     none       color00
 SignColumn       none       background
 
-Underlined       color11    none underline
+Underlined       color03    none underline
 
-Error            color01    none
-ErrorMsg         color01    none
-ModeMsg          background color03
-WarningMsg       color03    none
-MoreMsg          color10    none
-Question         color09    none
+Error            color09    none
+ErrorMsg         color09    none
+ModeMsg          background color11
+WarningMsg       color11    none
+MoreMsg          color02    none
+Question         color01    none
 
 Todo             background color07
-MatchParen       color00    color03
-Search           color00    color10
-IncSearch        color00    color11
-WildMenu         background color11
+MatchParen       color00    color11
+Search           color00    color02
+IncSearch        color00    color03
+WildMenu         background color03
 ColorColumn      none       color00
 Cursor           background foreground
-lCursor          background color01
+lCursor          background color09
 
 DiffAdd          none       none
 DiffChange       none       none
-DiffText         background color03
-DiffDelete       color05    none
+DiffText         background color11
+DiffDelete       color13    none
 
-SpellBad         color01    none t=underline g=undercurl s=color01
-SpellCap         color09    none t=underline g=undercurl s=color09
-SpellLocal       color03    none t=underline g=undercurl s=color03
-SpellRare        color11    none t=underline g=undercurl s=color11
+SpellBad         color09    none t=underline g=undercurl s=color09
+SpellCap         color01    none t=underline g=undercurl s=color01
+SpellLocal       color11    none t=underline g=undercurl s=color11
+SpellRare        color03    none t=underline g=undercurl s=color03
 
 
 ;;; :h group-names
 Comment          color07    none
 
-Identifier       color03    none
-Function         color11    none
-Statement        color13    none
-Constant         color09    none
-String           color10    none
-Character        color02    none
-PreProc          color06    none
-Type             color05    none
-Special          color04    none
-SpecialChar      color05    none
-Tag              color14    none
-SpecialComment   color14    none
+Identifier       color11    none
+Function         color03    none
+Statement        color05    none
+Constant         color01    none
+String           color02    none
+Character        color10    none
+PreProc          color14    none
+Type             color13    none
+Special          color12    none
+SpecialChar      color13    none
+Tag              color06    none
+SpecialComment   color06    none
 
-Directory        color05    none bold
+Directory        color13    none bold
 Conceal          color07    none
 Ignore           none       none
 
 Title            color15    none bold
-
