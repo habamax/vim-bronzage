@@ -71,8 +71,8 @@ SpecialKey       color08    none
 Folded           color07    color00
 Visual           background color04
 VisualNOS        background color04
-LineNr           color07    background
-FoldColumn       color07    background
+LineNr           color07    none
+FoldColumn       color07    none
 CursorLine       none       color00
 CursorColumn     none       color00
 CursorLineNr     none       color00
