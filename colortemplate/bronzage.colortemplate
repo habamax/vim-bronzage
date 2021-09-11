@@ -62,7 +62,7 @@ TabLine          color07    color08
 TabLineFill      color14    color08
 TabLineSel       background color07
 
-ToolbarLine      none       background
+ToolbarLine      none       none
 ToolbarButton    background color02
 
 NonText          color08    none
