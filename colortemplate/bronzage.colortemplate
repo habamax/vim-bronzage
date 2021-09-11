@@ -29,11 +29,11 @@ Color: color11    #AFAF5F 143
 Color: color04    #87AFD7 110
 Color: color12    #5f8787 66
 
-Color: color13    #AF875F 137
 Color: color05    #D7AF5F 179
+Color: color13    #AF875F 137
 
-Color: color14    #87AFAF 109
 Color: color06    #87D7D7 116
+Color: color14    #87AFAF 109
 
 Color: color07    #808080 244
 Color: color15    #E4E4E4 254
@@ -62,7 +62,7 @@ TabLine          color07    color08
 TabLineFill      color14    color08
 TabLineSel       background color07
 
-ToolbarLine      none       color00
+ToolbarLine      none       background
 ToolbarButton    background color02
 
 NonText          color08    none
