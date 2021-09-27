@@ -98,8 +98,8 @@ Cursor           background foreground
 lCursor          background color09
 
 DiffAdd          none       none
-DiffChange       none       none
-DiffText         color13    color08
+DiffChange       none       color08
+DiffText         color09    color00
 DiffDelete       color09    none
 
 SpellBad         color09    none t=underline g=undercurl s=color09
