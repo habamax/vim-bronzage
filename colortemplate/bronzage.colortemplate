@@ -38,6 +38,10 @@ Color: color14    #87AFAF 109
 Color: color07    #808080 244
 Color: color15    #E4E4E4 254
 
+Color: colorDiffA #444444 238
+Color: colorDiffC #444444 238
+Color: colorDiffD #444444 238
+
 Term colors: color00 color01 color02 color03 color04 color05 color06 color07
 Term colors: color08 color09 color10 color11 color12 color13 color14 color15
 
@@ -98,7 +102,7 @@ Cursor           background foreground
 lCursor          background color09
 
 DiffAdd          none       none
-DiffChange       none       color08
+DiffChange       none       colorDiffC
 DiffText         color06    color12
 DiffDelete       color09    none
 
