@@ -92,7 +92,7 @@ WarningMsg       color11    none
 MoreMsg          color02    none
 Question         color01    none
 
-Todo             background color07
+Todo             color06    color00
 MatchParen       color00    color11
 Search           color00    color02
 IncSearch        color00    color03
@@ -124,9 +124,6 @@ Character        color10    none
 PreProc          color14    none
 Type             color13    none
 Special          color12    none
-SpecialChar      color13    none
-Tag              color06    none
-SpecialComment   color06    none
 
 Directory        color13    none bold
 Conceal          color07    none
