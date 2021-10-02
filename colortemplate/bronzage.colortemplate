@@ -92,7 +92,7 @@ WarningMsg       color11    none
 MoreMsg          color02    none
 Question         color01    none
 
-Todo             color06    color00
+Todo             color06    color08
 MatchParen       color00    color11
 Search           color00    color02
 IncSearch        color00    color03
