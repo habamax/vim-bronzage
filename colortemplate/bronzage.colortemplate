@@ -1,6 +1,6 @@
 Full name: bronzage
 Short name: bronzage
-Description: A tribute to zenburn.
+Description: Dark medium contrast with accented brown and yellow colors.
 Author: Maxim Kim <habamax@gmail.com>
 Neovim: yes
 
@@ -63,8 +63,8 @@ PmenuSbar        none       color07
 PmenuThumb       none       color15
 
 TabLine          color07    color08
-TabLineFill      foreground color07
-TabLineSel       color07    background bold
+TabLineFill      foreground color08
+TabLineSel       foreground background
 
 ToolbarLine      none       none
 ToolbarButton    background color02
