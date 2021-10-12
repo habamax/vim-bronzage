@@ -95,7 +95,7 @@ CursorColumn       none           color00
 CursorLineNr       none           color00
 QuickFixLine       none           color00
 Variant: gui 256 16
-SignColumn         none           background
+SignColumn         none           none
 
 Underlined         color11        none           underline
 
