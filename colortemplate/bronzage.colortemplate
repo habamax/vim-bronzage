@@ -43,8 +43,8 @@ Color: colorDiffA  #3A3A3A        237            0
 Color: colorDiffC  #3A3A3A        237            0
 Color: colorDiffD  #3A3A3A        237            0
 
-Term colors: color00 color01 color02 color11 color12 color13 color14 color07
-Term colors: color08 color09 color10 color03 color04 color05 color06 color15
+Term colors: color00 color01 color02 color03 color04 color05 color06 color07
+Term colors: color08 color09 color10 color11 color12 color13 color14 color15
 
 
 ;;; chrome
@@ -117,10 +117,11 @@ Variant: 16
 ColorColumn        none           color09
 Variant: gui 256
 ColorColumn        none           color00
-Variant: gui 256 16
+Variant: gui
 Cursor             background     foreground
 lCursor            background     color09
 
+Variant: gui 256 16
 DiffAdd            none           none
 DiffChange         none           colorDiffC
 DiffText           color14        color04
