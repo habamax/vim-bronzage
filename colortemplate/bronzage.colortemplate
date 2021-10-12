@@ -68,8 +68,8 @@ PmenuSbar          none           color07
 PmenuThumb         none           color15
 
 TabLine            color07        color08
-TabLineFill        foreground     color08
-TabLineSel         foreground     background
+TabLineFill        none           color08
+TabLineSel         none           none
 
 ToolbarLine        none           none
 ToolbarButton      background     color02
