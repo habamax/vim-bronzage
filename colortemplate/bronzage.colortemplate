@@ -15,7 +15,7 @@ Background: dark
 Color: foreground  #D0D0D0        252            15
 Color: background  #303030        236            0
 
-Color: color00     #262626        235            7
+Color: color00     #262626        235            0
 Color: color08     #4E4E4E        239            8
 
 Color: color01     #D7875F        173            1
