@@ -102,7 +102,7 @@ Underlined         color11        none           underline
 Error              color09        none
 ErrorMsg           color09        none
 ModeMsg            background     color03
-WarningMsg         color03        none
+WarningMsg         color11        none
 MoreMsg            color02        none
 Question           color01        none
 
