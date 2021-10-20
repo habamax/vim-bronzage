@@ -171,3 +171,5 @@ Conceal            color07        none
 Ignore             none           none
 
 Title              color15        none           bold
+
+Include: _tcozero
