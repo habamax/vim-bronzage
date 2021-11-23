@@ -60,11 +60,18 @@ StatuslineTerm     background     color07
 StatuslineTermNC   color07        color08
 VertSplit          color08        color08
 
-Pmenu              none           color08
+Variant: 16
+Pmenu              foreground     color08
 PmenuSel           background     color11
-PmenuSbar          none           color07
+PmenuSbar          none           none
 PmenuThumb         none           color15
+Variant: gui 256
+Pmenu              none           color00
+PmenuSel           background     color11
+PmenuSbar          none           none
+PmenuThumb         none           color07
 
+Variant: gui 256 16
 TabLine            color07        color08
 TabLineFill        none           color08
 TabLineSel         none           none
