@@ -94,12 +94,12 @@ FoldColumn         color07        none
 Variant: 16
 CursorLine         none           none           underline
 CursorColumn       none           none           underline
-CursorLineNr       none           none           underline
+CursorLineNr       color13        none           bold
 QuickFixLine       none           none           underline
 Variant: gui 256
 CursorLine         none           color00
 CursorColumn       none           color00
-CursorLineNr       none           color00
+CursorLineNr       color13        none           bold
 QuickFixLine       none           color00
 Variant: gui 256 16
 SignColumn         none           none
