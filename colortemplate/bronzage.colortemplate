@@ -106,8 +106,8 @@ SignColumn         none           none
 
 Underlined         color11        none           underline
 
-Error              color09        none
-ErrorMsg           color09        none
+Error              color09        none           reverse
+ErrorMsg           color09        none           reverse
 ModeMsg            background     color03
 WarningMsg         color11        none
 MoreMsg            color02        none
@@ -180,6 +180,10 @@ Conceal            color07        none
 Ignore             none           none
 
 Title              color15        none           bold
+
+
+; Diff colors
+Include: _diff
 
 
 ; No color support
